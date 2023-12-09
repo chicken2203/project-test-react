@@ -1,0 +1,13 @@
+.signin {
+    background-color: #ccc;
+    width: 100%;
+    height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .signin-card {
+        width: 380px;
+        height: auto;
+        border-radius: 12px !important;
+    }
+}

@@ -1,0 +1,18 @@
+.top-bar {
+    background-color: orange;
+    padding: 10px 50px;
+    color: white;
+    font-size: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 3rem;
+    button {
+        color: white;
+        font-size: 1rem;
+    }
+
+    #basic-menu {
+        font-size: 1rem !important;
+    }
+}
